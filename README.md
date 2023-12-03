@@ -10,7 +10,7 @@ I'm currently learning C language more.
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![PYTHON](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![VERILOG](https://img.shields.io/badge/VERILOG-3776AB&style=for-the-badge)
+    ![VERILOG](https://img.shields.io/badge/verilog-3776AB&style=for-the-badge)
 
   **Softwares and Tools**:
     
